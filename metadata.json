@@ -1,0 +1,6 @@
+{
+  "name": "WiFi Scanner & Diagnostics",
+  "description": "A powerful tool to scan local WiFi networks and perform diagnostic connectivity checks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
